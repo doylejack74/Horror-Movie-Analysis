@@ -1,0 +1,661 @@
+﻿Movie Name,Director,Year,Jump Count,Jump Scare Rating,Netflix (US),IMDB Rating,Primary Actor,Movie Rating,Duration
+Misery,Rob Reiner,1990,3,0.5,No,7.8,Kathy Bates,R ,107
+Jacob’s Ladder,Adrian Lyne,1990,4,1,No,7.5,#N/A,R,113
+Tremors,Ron Underwood,1990,16,2.5,No,7.1,Kevin Bacon,PG-13,96
+Alien,Ridley Scott,1979,11,2.5,No,8.5,Sigourney Weaver,R ,117
+Psycho,Alfred Hitchcock,1960,2,0.5,No,8.5,Anthony Perkins,R ,109
+Aliens,James Cameron,1986,13,3,No,8.4,Sigourney Weaver,R,138
+The Shining,Stanley Kubrick,1980,3,0.5,Yes,8.4,Jack Nicholson,R ,145
+Flatliners,Joel Schumacher,1990,7,2,Yes,6.6,Ellen Page,PG-13,108
+The Exorcist III,William Peter Blatty,1990,11,2.5,No,6.4,George C. Scott,R,109
+The Silence of the Lambs,Jonathan Demme,1991,0,0,No,8.6,Jodie Foster,R ,118
+Cape Fear,Martin Scorsese,1991,4,1.5,No,7.3,Robert Mitchum,NR,106
+The Thing,John Carpenter,1982,7,2,No,8.2,Joel Edgerton,R ,103
+The People Under the Stairs,Wes Craven,1991,13,3,No,6.4,Brandon Quintin Adams,R,102
+Army of Darkness – Director Cut,Sam Raimi,1992,8,2,No,7.5,#N/A,R,81
+Dead Alive,Peter Jackson,1992,3,1,No,7.5,Timothy Balme,R ,101
+Bram Stoker’s Dracula,Francis Ford Coppola,1992,1,0.5,No,7.4,#N/A,R,128
+Candyman,Bernard Rose,1992,16,4,No,6.6,Virginia Madsen,R,99
+Alien 3,David Fincher,1992,14,2.5,No,6.4,#N/A,R,114
+Jaws,Steven Spielberg,1975,4,2.5,No,8,Roy Scheider,PG ,124
+Army of Darkness – Theatrical Cut,Sam Raimi,1992,9,2,No,0,#N/A,R,0
+Rosemary’s Baby,Roman Polanski,1968,0,0,No,8,#N/A,R,137
+Jurassic Park,Steven Spielberg,1993,9,2.5,No,8.1,Richard Attenborough,PG-13,126
+The Exorcist,William Friedkin,1973,10,1.5,No,8,Linda Blair,R ,122
+Malice,Harold Becker,1993,3,1,No,6.4,Alec Baldwin,R,107
+Interview With the Vampire,Neil Jordan,1994,6,2,No,7.6,Tom Cruise,R ,122
+Halloween,John Carpenter,1978,13,2.5,No,7.9,Malcolm McDowell,R ,109
+In The Mouth Of Madness,John Carpenter,1994,10,3,No,7.2,Sam Neill,R,94
+Wes Craven’s New Nightmare,Wes Craven,1994,11,2.5,No,6.4,#N/A,R,112
+The Conversation,Francis Ford Coppola,1974,1,0.5,No,7.9,Gene Hackman,PG ,113
+Seven,David Fincher,1995,1,0.5,No,8.6,#N/A,R,127
+Evil Dead II,Sam Raimi,1987,27,4,No,7.8,#N/A,R,84
+Lord of Illusions,Clive Barker,1995,15,4,No,6.1,Scott Bakula,R ,108
+Species,Roger Donaldson,1995,7,3,No,5.8,Ben Kingsley,R ,108
+Ringu: Kanzenban,Chisui Takigawa,1995,2,0.5,No,0,#N/A,R,0
+Predator,John McTiernan,1987,7,2,No,7.8,Arnold Schwarzenegger,R ,107
+Thesis,Alejandro Amenábar,1996,3,0.5,No,7.4,Eduardo Noriega,R,125
+Scream,Wes Craven,1996,19,3.5,No,7.2,David Arquette,R,111
+The Craft,Andrew Fleming,1996,4,1,No,6.2,Robin Tunney,R ,101
+Wait Until Dark,Terence Young,1967,1,0.5,No,7.8,Audrey Hepburn,NR,108
+Eyes Without a Face,Georges Franju,1960,1,0.5,No,7.7,Pierre Brasseur,NR,84
+Cube,Vincenzo Natali,1997,1,0.5,No,7.3,Nicole de Boer,R ,90
+Hour of the Wolf,Ingmar Bergman,1968,1,0.5,No,7.7,#N/A,R,90
+Kuroneko,Kaneto Shindō,1968,1,0.5,No,7.7,#N/A,R,99
+Repulsion,Roman Polanski,1965,7,2.5,No,7.7,Catherine Deneuve,NR,104
+Event Horizon,Paul W.S. Anderson,1997,11,3,No,6.7,Laurence Fishburne,R ,95
+Funny Games,Michael Haneke,1997,1,0.5,No,6.5,Susanne Lothar,NR,108
+Alien: Resurrection,Jean-Pierre Jeunet,1997,9,3,No,6.3,#N/A,R,109
+Scream 2,Wes Craven,1997,19,4,No,6.1,Neve Campbell,R,120
+I Know What You Did Last Summer,Jim Gillespie,1997,13,3.5,Yes,5.6,Jennifer Love Hewitt,R ,101
+An American Werewolf in Paris,Anthony Waller,1997,11,2.5,No,5.1,#N/A,R,105
+Deep Red,Dario Argento,1975,7,1.5,No,7.6,#N/A,R,127
+Anaconda,Luis Llosa,1997,9,2,No,4.6,Jennifer Lopez,PG-13,89
+Blade,Stephen Norrington,1998,1,1,No,7.1,Wesley Snipes,R ,121
+The Abyss,James Cameron,1989,2,0.5,No,7.6,#N/A,R,171
+The Evil Dead,Sam Raimi,1981,22,4,No,7.6,Bruce Campbell,R ,85
+The Fly,David Cronenberg,1986,2,0.5,No,7.6,Patricia Owens,NR,94
+The Faculty,Robert Rodriguez,1998,11,3,No,6.4,Jordana Brewster,R ,104
+The Omen,Richard Donner,1976,1,0.5,No,7.6,Gregory Peck,R,111
+Sphere,Barry Levinson,1998,4,1,Yes,6,Dustin Hoffman,PG-13,152
+Halloween H20: 20 Years Later,Steve Miner,1998,16,3.5,No,5.8,#N/A,R,86
+Urban Legend,Jamie Blanks,1998,17,4,No,5.5,Alicia Witt,R ,100
+A Nightmare on Elm Street,Wes Craven,1984,11,2.5,No,7.5,Rooney Mara,R ,96
+Bride of Chucky,Ronny Yu,1998,11,2,No,5.3,Jennifer Tilly,R ,89
+An American Werewolf in London,John Landis,1981,14,3,No,7.5,David Naughton,R,97
+The Last Broadcast,"Stefan Avalos, Lance Weiler",1998,1,0.5,No,5.3,#N/A,R,86
+Ring,Hideo Nakata,1998,5,2,No,0,#N/A,R,0
+Spiral,George Iida,1998,1,0.5,No,0,Joel David Moore,PG-13,90
+The Sixth Sense,M. Night Shyamalan,1999,8,1.5,Yes,8.1,Haley Joel Osment,PG-13,105
+Sleepy Hollow,Tim Burton,1999,1,0.5,No,7.5,Johnny Depp,R ,105
+Audition,Takashi Miike,1999,1,0.5,No,7.2,#N/A,R,115
+Ravenous,Antonia Bird,1999,4,1,No,7.1,Guy Pearce,R ,100
+The Texas Chain Saw Massacre,Tobe Hooper,1974,2,1,No,7.5,#N/A,R,83
+Stir of Echoes,David Koepp,1999,9,3,No,7,Kevin Bacon,R ,99
+The Wicker Man,Robin Hardy,1973,4,0.5,No,7.5,Nicolas Cage,PG-13,106
+The Ninth Gate,Roman Polanski,1999,0,0,No,6.7,Johnny Depp,R ,133
+The Blair Witch Project,Daniel Myrick & Eduardo Sánchez,1999,0,0,No,6.4,Heather Donahue,R ,84
+Idle Hands,Rodman Flender,1999,10,3,No,6.2,Devon Sawa,R,92
+The Ring Virus,Kim Dong-bin,1999,3,0.5,No,6.1,#N/A,R,108
+Eraserhead,David Lynch,1977,2,0.5,No,7.4,Jack Nance,R,89
+Invasion of the Body Snatchers,Philip Kaufman,1978,4,1,No,7.4,Kevin McCarthy,PG,80
+Poltergeist,Tobe Hooper,1982,9,1,Yes,7.4,Sam Rockwell,PG-13,93
+Ringu 2,Hideo Nakata,1999,1,0.5,No,6,#N/A,R,95
+Deep Blue Sea,Renny Harlin,1999,10,2.5,No,5.8,Samuel L. Jackson,R ,100
+House on Haunted Hill,William Malone,1999,14,3,No,5.6,Vincent Price,NR,74
+Lake Placid,Steve Miner,1999,12,2.5,No,5.6,Bill Pullman,R ,92
+Final Destination,James Wong,2000,4,2,Yes,6.7,Devon Sawa,R ,98
+What Lies Beneath,Robert Zemeckis,2000,16,3,No,6.6,Michelle Pfeiffer,PG-13,130
+Scary Movie,Keenen Ivory Wayans,2000,8,1.5,No,6.2,Marlon Wayans,R,88
+Uzumaki,Higuchinsky,2000,15,3,No,6.2,#N/A,R,90
+Ringu 0: Birthday,Norio Tsuruta,2000,0,0,No,5.9,#N/A,R,99
+Hollow Man,Paul Verhoeven,2000,9,2.5,No,5.7,Kevin Bacon,R ,112
+Scream 3,Wes Craven,2000,23,4,No,5.5,Neve Campbell,R ,116
+Hannibal,Ridley Scott,2001,2,0.5,No,8.6,Anthony Hopkins,R ,131
+The Return of the Living Dead,Dan O’Bannon,1985,1,0.5,No,7.3,Clu Gulager,R ,90
+Donnie Darko,Richard Kelly,2001,3,1,No,8.1,Jake Gyllenhaal,R,113
+Mulholland Drive,David Lynch,2001,1,1,No,8,Laura Harring,R ,147
+The Others,Alejandro Amenábar,2001,4,2,No,7.6,Nicole Kidman,PG-13,105
+The Devil’s Backbone,Guillermo del Toro,2001,4,1.5,No,7.4,#N/A,R,106
+Day of the Dead,George A. Romero,1985,10,3,No,7.2,Ving Rhames,R ,87
+Don’t Look Now,Nicolas Roeg,1973,1,0.5,No,7.2,#N/A,R,110
+Gremlins,Joe Dante,1984,17,3.5,No,7.2,Zach Galligan,PG,120
+Frailty,Bill Paxton,2001,0,0,No,7.3,Bill Paxton,R ,99
+Joy Ride,John Dahl,2001,2,0.5,No,6.6,Steve Zahn,R ,96
+Session 9,Brad Anderson,2001,0,0,No,6.5,#N/A,R,97
+Re-Animator,Stuart Gordon,1985,4,1,No,7.2,Jeffrey Combs,R,86
+Jeepers Creepers,Victor Salva,2001,11,3.5,No,6.1,Justin Long,R ,89
+The Hole,Nick Hamm,2001,3,0.5,No,5.7,Chris Massoglia,PG-13,98
+The Changeling,Peter Medak,1980,7,2,No,7.2,#N/A,R,107
+Thirteen Ghosts,Steve Beck,2001,17,3,No,5.6,#N/A,R,91
+Scary Movie 2,Keenen Ivory Wayans,2001,8,1.5,Yes,5.2,#N/A,R,83
+28 Days Later,Danny Boyle,2002,10,3,No,7.6,Cillian Murphy,R ,108
+Bubba Ho-Tep,Don Cascarelli,2002,9,0.5,No,7.2,Bruce Campbell,R ,92
+Red Dragon,Brett Ratner,2002,6,2,No,7.2,Anthony Hopkins,R ,125
+The Ring,Gore Verbinski,2002,9,2.5,No,7.1,Naomi Watts,PG-13,115
+Dog Soldiers,Neil Marshall,2002,13,3,No,6.8,#N/A,R,105
+One Hour Photo,Mark Romanek,2002,1,0.5,No,6.8,Robin Williams,R ,98
+May,Lucky McKee,2002,0,0,No,6.7,Angela Bettis,R ,94
+Resident Evil,Paul W.S. Anderson,2002,7,2.5,No,6.7,Milla Jovovich,R ,100
+Signs,M. Night Shyamalan,2002,8,2,No,6.7,Mel Gibson,PG-13,106
+The Mothman Prophecies,Mark Pellington,2002,4,1,No,6.5,Richard Gere,PG-13,119
+Below,David Twohy,2002,11,3,No,6.1,Matthew Davis,R ,105
+Ghost Ship,Steve Beck,2002,12,3,Yes,5.5,Gabriel Byrne,R ,91
+The Eye,"Danny Pang, Oxide Chun Pang",2002,5,2,No,5.4,Jessica Alba,PG-13,97
+Cabin Fever,Eli Roth,2002,10,2.5,No,3.7,Gage Golightly,R ,99
+The Texas Chainsaw Massacre,Marcus Nispel,2003,16,3,No,7.5,Gunnar Hansen,R ,83
+Identity,James Mangold,2003,11,2.5,No,7.3,John Cusack,R ,90
+A Tale of Two Sisters,Jee-woon Kim,2003,14,3,No,7.2,Su-jeong Lim,R ,114
+Dead End,"Jean-Baptiste Andrea, Fabrice Canepa",2003,9,2.5,No,7.1,Ramez Alkhoury,NOT RATED,95
+High Tension,Alexandre Aja,2003,8,2.5,No,6.8,#N/A,R,91
+Final Destination 2,David R. Ellis,2003,3,1,Yes,6.2,Ali Larter,R ,90
+Wrong Turn,Rob Schmidt,2003,13,3,No,6.1,Desmond Harrington,R ,95
+House of 1000 Corpses,Rob Zombie,2003,6,2.5,No,6,Sid Haig,R ,88
+Freddy vs. Jason,Ronny Yu,2003,24,4,No,5.8,Robert Englund,R ,97
+Gothika,Mathieu Kassovitz,2003,16,3.5,Yes,5.8,Halle Berry,R ,98
+Hellraiser,Clive Barker,1987,5,2,No,7,Sean Chapman,R ,94
+Dreamcatcher,Lawrence Kasdan,2003,16,3,No,5.5,Thomas Jane,R ,134
+Darkness Falls,Jonathan Liebesman,2003,19,4,No,4.9,Chaney Kley,PG-13,86
+Shaun of the Dead,Edgar Wright,2004,13,2.5,No,8,Simon Pegg,R ,97
+Saw,James Wan,2004,5,2,No,7.7,Leigh Whannell,R ,103
+The Butterfly Effect,"Eric Bress, J. Mackye Gruber",2004,4,1,No,7.7,Ashton Kutcher,R ,113
+Dawn of the Dead,Zack Snyder,2004,10,2,No,7.4,Sarah Polley,R ,109
+Hellboy,Guillermo del Toro,2004,6,1.5,No,6.8,Ron Perlman,PG-13,122
+Secret Window,David Koepp,2004,10,2,No,6.6,Johnny Depp,PG-13,95
+The Village,M. Night Shyamalan,2004,4,1,No,6.5,Bryce Dallas Howard,PG-13,109
+Creep,Christopher Smith,2004,9,3,No,6.2,Mark Duplass,R ,80
+Van Helsing,Stephen Sommers,2004,3,0.5,No,6.1,Hugh Jackman,PG-13,145
+The Grudge,Takashi Shimizu,2004,23,4,No,5.9,Sarah Michelle Gellar,PG-13,91
+Shutter,"Banjong Pisanthanakun, Parkpoom Wongpoom",2004,11,4,Yes,5.2,Ananda Everingham,R,95
+Altered States,Ken Russell,1980,2,0.5,No,6.9,William Hurt,R ,102
+The Forgotten,Joseph Ruben,2004,7,3,No,5.2,Julianne Moore,PG-13,91
+Exorcist: The Beginning,Renny Harlin,2004,17,4,No,5.1,Cast Not Available,R ,114
+Anacondas: The Hunt for Blood Orchid,Dwight H. Little,2004,7,3,No,4.7,#N/A,R,97
+The Descent,Neil Marshall,2005,16,4,No,7.2,Shauna Macdonald,R ,99
+The Jacket,John Maybury,2005,6,1.5,No,7.1,Adrien Brody,R ,102
+Wolf Creek,Greg McLean,2005,0,0,No,7.1,John Jarratt,R ,98
+Noroi: The Curse,Kôji Shiraishi,2005,4,1,No,7,#N/A,R,115
+The Devil’s Rejects,Rob Zombie,2005,0,0,No,6.8,#N/A,R,107
+The Exorcism of Emily Rose,Scott Derrickson,2005,9,2.5,No,6.7,Laura Linney,PG-13,114
+Saw II,Darren Lynn Bousman,2005,5,1,No,6.6,Tobin Bell,R ,92
+The Skeleton Key,Iain Softley,2005,11,3,No,6.5,Kate Hudson,PG-13,104
+Dead Calm,Phillip Noyce,1989,2,1,No,6.8,Sam Neill,R ,97
+The Amityville Horror,Andrew Douglas,2005,17,4,No,6,Ryan Reynolds,R ,89
+Hide and Seek,John Polson,2005,16,3.5,No,5.9,Robert De Niro,R ,101
+Hostel,Eli Roth,2005,2,0.5,No,5.9,Jay Hernandez,R ,94
+Dark Water,Walter Salles,2005,7,2,No,5.6,Hitomi Kuroki,PG-13,100
+The Ring Two,Hideo Nakata,2005,11,3,No,5.4,Naomi Watts,PG-13,110
+House of Wax,Jaume Collet-Serra,2005,16,4,No,5.3,Vincent Price,PG,88
+Doom,Andrzej Bartkowiak,2005,15,3.5,Yes,5.2,Dwayne Johnson,R ,104
+Phantasm,Don Coscarelli,1979,14,3,No,6.8,A. Michael Baldwin,R,88
+Pan’s Labyrinth,Guillermo del Toro,2006,6,1.5,No,8.2,#N/A,R,118
+Inland Empire,David Lynch,2006,8,2.5,No,6.9,#N/A,R,180
+Silent Hill,Christophe Gans,2006,7,1.5,No,6.6,Radha Mitchell,R ,125
+Slither,James Gunn,2006,10,3,No,6.5,Nathan Fillion,R,96
+Suspiria,Dario Argento,1977,6,1.5,No,6.8,#N/A,R,152
+The Hills Have Eyes,Alexandre Aja,2006,9,2.5,No,6.4,Emilie De Ravin,R ,95
+Them,"David Moreau, Xavier Palud",2006,16,4,No,6.4,Olivia Bonamy,R ,76
+Saw III,Darren Lynn Bousman,2006,5,1.5,No,6.2,Tobin Bell,R ,108
+The Texas Chainsaw Massacre: The Beginning,Jonathan Liebesman,2006,17,3.5,Yes,5.9,Jordana Brewster,R ,84
+The Fog,John Carpenter,1980,16,3.5,No,6.8,Tom Welling,PG-13,100
+Final Destination 3,James Wong,2006,5,1,Yes,5.8,Mary Elizabeth Winstead,R ,93
+Forbidden Siren,Yukihiko Tsutsumi,2006,5,1,No,0,#N/A,R,87
+Halloween,Rob Zombie,2007,9,3,No,7.9,Malcolm McDowell,R ,109
+Zodiac,David Fincher,2007,3,0.5,No,7.7,Jake Gyllenhaal,R ,157
+[Rec],"Jaume Balagueró, Paco Plaza",2007,11,3.5,No,7.5,Manuela Velasco,R ,78
+The Orphanage,J.A. Bayona,2007,6,1.5,No,7.5,Beln Rueda,R ,105
+Sunshine,Danny Boyle,2007,6,1.5,No,7.3,Ralph Fiennes,R ,180
+I Am Legend,Francis Lawrence,2007,9,2.5,No,7.2,Will Smith,PG-13,100
+The Mist,Frank Darabont,2007,5,1,No,7.2,Thomas Jane,R ,125
+Timecrimes,Nacho Vigalondo,2007,3,0.5,No,7.2,#N/A,R,92
+Planet Terror,Robert Rodriguez,2007,14,2.5,No,7.1,#N/A,R,105
+28 Weeks Later,Juan Carlos Fresnadillo,2007,17,3.5,No,7,#N/A,R,100
+Disturbia,D.J. Caruso,2007,13,3,No,6.9,Shia LaBeouf,PG-13,104
+Prince of Darkness,John Carpenter,1987,7,2.5,No,6.7,Donald Pleasence,R ,102
+1408,Mikael Håfström,2007,8,3,No,6.8,John Cusack,PG-13,94
+Trick ‘r Treat,Michael Dougherty,2007,6,2.5,No,6.8,#N/A,R,82
+30 Days of Night,David Slade,2007,9,2.5,No,6.6,Josh Hartnett,R ,113
+The Messengers,"Danny Pang, Oxide Chun Pang",2007,27,4.5,No,6.6,Kristen Stewart,PG-13,90
+Funny Games,Michael Haneke,2007,1,0.5,No,6.5,Susanne Lothar,NR,108
+The Number 23,Joel Schumacher,2007,3,0.5,No,6.4,Jim Carrey,R ,98
+Paranormal Activity,Oren Peli,2007,10,3.5,No,6.3,Katie Featherston,R ,86
+Dead Silence,James Wan,2007,15,4,No,6.2,Ryan Kwanten,R ,90
+Hannibal Rising,Peter Webber,2007,0,0,No,6.2,Gaspard Ulliel,R ,121
+Vacancy,Nimród Antal,2007,12,2.5,No,6.2,Luke Wilson,R ,85
+The Poughkeepsie Tapes,John Erick Dowdle,2007,4,1,No,6.1,#N/A,R,81
+P2,Franck Khalfoun,2007,16,4,No,5.9,Rachel Nichols,R ,98
+Saw IV,Darren Lynn Bousman,2007,6,1.5,No,5.9,Tobin Bell,R ,92
+Wind Chill,Gregory Jacobs,2007,13,3,No,5.8,Emily Blunt,R ,91
+A Nightmare on Elm Street 3: Dream Warriors,Chuck Russell,1987,11,2.5,No,6.6,Robert Englund,R ,96
+Hostel: Part II,Eli Roth,2007,5,1,No,5.4,#N/A,R,94
+Inside,"Alexandre Bustillo, Julien Maury",2007,4,1,No,4.3,Rachel Nichols,NR,100
+Alone,"Banjong Pisanthanakun, Parkpoom Wongpoom",2007,21,4.5,No,3.7,Bipasha Basu,NOT RATED,133
+Let The Right One In,Tomas Alfredson,2008,2,0.5,No,7.9,Kre Hedebrant,R ,114
+Cloverfield,Matt Reeves,2008,7,2,No,7,Lizzy Caplan,PG-13,84
+Eden Lake,James Watkins,2008,3,1,No,6.8,Kelly Reilly,R ,90
+Pontypool,Bruce McDonald,2008,1,0.5,No,6.7,Stephen McHattie,PG,95
+Mirrors,Alexandre Aja,2008,15,4,No,6.2,Kiefer Sutherland,R ,110
+Lake Mungo,Joel Anderson,2008,1,0.5,No,6.1,Talia Zucker,R ,87
+Splinter,Toby Wilkins,2008,10,3,No,6.1,Tom Sizemore,R ,96
+The Midnight Meat Train,Ryûhei Kitamura,2008,1,0.5,No,6.1,Bradley Cooper,R ,98
+Quarantine,John Erick Dowdle,2008,14,3.5,No,6,Jennifer Carpenter,R ,89
+The Strangers,Bryan Bertino,2008,16,4.5,No,6,Liv Tyler,R ,85
+Saw V,David Hackl,2008,5,1,No,5.8,Tobin Bell,R ,95
+Pet Sematary,Mary Lambert,1989,13,3.5,No,6.6,Dale Midkiff,R ,103
+The Happening,M. Night Shyamalan,2008,1,0.5,No,5,Mark Wahlberg,R ,90
+Martyrs,Pascal Laugier,2008,15,3,No,4,Morjane Alaoui,R ,97
+One Missed Call,Eric Valette,2008,15,3.5,No,3.9,Shannyn Sossamon,PG-13,87
+Zombieland,Ruben Fleischer,2009,9,3,No,7.7,Woody Harrelson,R,88
+The Howling,Joe Dante,1981,10,2.5,No,6.6,Dee Wallace,R ,91
+Enter the Void,Gaspar Noé,2009,3,2,No,7.3,#N/A,R,161
+Orphan,Jaume Collet-Serra,2009,12,3,No,7,Peter Sarsgaard,R ,123
+Triangle,Christopher Smith,2009,5,1,No,6.9,Melissa George,R ,99
+Pandorum,Christian Alvart,2009,13,4,Yes,6.8,Dennis Quaid,R ,94
+Drag Me To Hell,Sam Raimi,2009,23,4.5,No,6.6,Alison Lohman,PG-13,99
+The Last House on the Left,Dennis Iliadis,2009,4,0.5,No,6.6,Lucy Grantham,R,83
+Friday the 13th,Marcus Nispel,2009,23,4,No,6.5,Jared Padalecki,R ,98
+Dead Snow,Tommy Wirkola,2009,9,3.5,No,6.4,#N/A,R,91
+The Collector,Marcus Dunstan,2009,2,1,No,6.4,Terence Stamp,NR,119
+Friday the 13th,Sean S. Cunningham,1980,10,3,No,6.5,Jared Padalecki,R ,98
+The House of the Devil,Ti West,2009,4,1,No,6.4,Jocelin Donahue,R ,93
+The Uninvited,Charles & Thomas Guard,2009,11,3,Yes,6.4,Emily Browning,PG-13,87
+Case 39,Christian Alvart,2009,10,2,No,6.2,Rene Zellweger,R ,109
+Knowing,Alex Proyas,2009,2,1,No,6.2,Nicolas Cage,PG-13,121
+Saw VI,Kevin Greutert,2009,2,0.5,No,6,Tobin Bell,R ,91
+The Fourth Kind,Olatunde Osunsanmi,2009,3,1,No,5.9,Milla Jovovich,PG-13,98
+The Haunting in Connecticut,Peter Cornwell,2009,26,4.5,No,5.9,Virginia Madsen,PG-13,102
+The New Daughter,Luiso Berdejo,2009,11,2.5,No,5.3,Kevin Costner,PG-13,108
+Jennifer’s Body,Karyn Kusama,2009,6,2,No,5.2,#N/A,R,102
+The Final Destination,David R. Ellis,2009,4,1,No,5.2,Bobby Campo,R ,82
+Halloween II,Rob Zombie,2009,16,3,No,4.9,Jamie Lee Curtis,R,93
+The Unborn,David S. Goyer,2009,14,3.5,Yes,4.8,Odette Annable,PG-13,88
+The Human Centipede – First Sequence,Tom Six,2009,4,1.5,No,4.4,#N/A,R,92
+Shutter Island,Martin Scorsese,2010,9,2,No,8.1,Leonardo DiCaprio,R ,138
+Black Swan,Darren Aronofsky,2010,10,3,No,8,Natalie Portman,R ,108
+I Saw The Devil,Kim Jee-woon,2010,2,1,No,7.8,Lee Byung-hun,NR,143
+A Nightmare on Elm Street,Samuel Bayer,2010,15,3,No,7.5,Rooney Mara,R ,96
+Tucker and Dale vs. Evil,Eli Craig,2010,9,1.5,No,7.5,Alan Tudyk,R,88
+Let Me In,Matt Reeves,2010,3,0.5,No,7.2,Kodi Smit-McPhee,R ,116
+Insidious,James Wan,2010,24,5,No,6.8,Patrick Wilson,PG-13,102
+Julia’s Eyes,Guillem Morales,2010,7,2,No,6.7,#N/A,R,118
+Stake Land,Jim Mickle,2010,1,0.5,No,6.5,Connor Paolo,R ,96
+The Crazies,Breck Eisner,2010,18,4,No,6.5,Timothy Olyphant,R ,101
+Devil,John Erick Dowdle,2010,4,1.5,No,6.3,Chris Messina,PG-13,80
+The Wolfman,Joe Johnston,2010,18,4,No,5.8,Benicio Del Toro,R ,103
+Paranormal Activity 2,Tod Williams,2010,14,3.5,No,5.7,Katie Featherston,R ,91
+Night of the Comet,Thom Eberhardt,1984,2,0.5,No,6.4,#N/A,R,95
+Silver Bullet,Dan Attias,1985,15,3,No,6.4,#N/A,R,95
+Don’t Be Afraid of the Dark,Troy Nixey,2010,8,3,No,5.6,#N/A,R,99
+The Last Exorcism,Daniel Stamm,2010,7,2,No,5.6,Patrick Fabian,PG-13,87
+The Burning,Tony Maylam,1981,21,4,No,6.4,#N/A,R,91
+The Ward,John Carpenter,2010,15,4,No,5.6,Amber Heard,R ,86
+8213: Gacy House,Anthony Fankhauser,2010,2,0.5,No,3.2,#N/A,R,91
+The Thing,Matthijs van Heijningen Jr.,2011,7,2.5,No,8.2,Joel Edgerton,R ,103
+The Tunnel,Carlo Ledesma,2011,6,2.5,No,7.8,#N/A,R,60
+Super 8,J.J. Abrams,2011,15,3.5,No,7.1,Kyle Chandler,PG-13,112
+Attack the Block,Joe Cornish,2011,12,3,No,6.6,John Boyega,R ,88
+The Awakening,Nick Murphy,2011,6,3.5,No,6.5,Rebecca Hall,R ,107
+You’re Next,Adam Wingard,2011,11,3,No,6.5,#N/A,R,95
+Fright Night,Craig Gillespie,2011,10,3,No,6.4,Anton Yelchin,R ,101
+Kill List,Ben Wheatley,2011,1,0.5,No,6.3,Neil Maskell,NR,95
+Scream 4,Wes Craven,2011,18,3.5,Yes,6.2,Neve Campbell,R ,103
+Grave Encounters,"Colin Minihan, Stuart Ortiz",2011,12,4,No,6.1,Sean Rogerson,NR,92
+Dream House,Jim Sheridan,2011,3,0.5,No,6,Daniel Craig,PG-13,92
+The Rite,Mikael Håfström,2011,7,2,Yes,6,Anthony Hopkins,PG-13,114
+Final Destination 5,Steven Quale,2011,5,1.5,No,5.9,Nick D'Agosto,R ,92
+Paranormal Activity 3,"Henry Joost, Ariel Schulman",2011,20,4,No,5.8,Jessica Tyler Brown,R ,84
+Absentia,Mike Flanagan,2011,8,2,No,5.8,Courtney Bell,R ,95
+The Innkeepers,Ti West,2011,9,2,No,5.5,Sara Paxton,R ,102
+Apollo 18,Gonzalo López-Gallego,2011,10,3,No,5.2,Warren Christie,PG-13,88
+Megan Is Missing,Michael Goi,2011,1,0.5,No,4.7,#N/A,R,85
+Hostel: Part III,Scott Spiegel,2011,6,1.5,Yes,4.6,Kip Pardue,R ,88
+Prometheus,Ridley Scott,2012,7,1.5,No,7,Noomi Rapace,R ,123
+The Cabin In The Woods,Drew Goddard,2012,13,3,No,7,Kristen Connolly,R ,95
+Sinister,Scott Derrickson,2012,17,5,No,6.8,Ethan Hawke,R ,109
+The Woman in Black,James Watkins,2012,16,4,No,6.4,Daniel Radcliffe,PG-13,94
+Sleepaway Camp,Robert Hiltzik,1983,6,1.5,No,6.3,Mike Kellin,R,88
+The Conspiracy,Christopher MacBride,2012,1,0.5,No,6.3,Aaron Poole,R,85
+Berberian Sound Studio,Peter Strickland,2012,0,0,No,6.2,Toby Jones,NR,94
+Dark Shadows,Tim Burton,2012,2,0.5,No,6.2,Johnny Depp,PG-13,113
+Resolution,"Justin Benson, Aaron Moorhead",2012,2,0.5,No,6.2,Peter Cilella,NR,93
+The McPherson Tape,Dean Alioto,1989,0,0,No,6.3,#N/A,R,66
+The Possession,Ole Bornedal,2012,10,3,No,5.9,Jeffrey Dean Morgan,PG-13,92
+The Pact,Nicholas McCarthy,2012,12,3,No,5.8,Caity Lotz,R,91
+V/H/S,"Matt Bettinelli-Olpin, David Bruckner, Tyler Gillett, Justin Martinez, Glenn McQuaid, Radio Silence, Joe Swanberg, Chad Villella, Ti West, Adam Wingard",2012,7,3.5,No,5.8,Adam Wingard,R ,115
+Would You Rather,David Guy Levy,2012,3,1,Yes,5.8,Brittany Snow,NR,95
+The Bay,Barry Levinson,2012,8,2.5,No,5.6,Kristen Connolly,R ,85
+Chernobyl Diaries,Bradley Parker,2012,16,3.5,Yes,5,Ingrid Bolso Berdal,R ,86
+Silent Hill: Revelation,Michael J. Bassett,2012,22,4,No,5,Adelaide Clemens,R ,94
+The ABCs of Death,27 different directors,2012,0,0,No,4.7,Ingrid Bolso Berdal,R,129
+Paranormal Activity 4,"Ariel Schulman, Henry Joost",2012,21,3.5,No,4.6,Katie Featherston,R ,90
+The Devil Inside,William Brent Bell,2012,8,2.5,No,4.2,Fernanda Andrade,R ,83
+Sadako 3D,Tsutomu Hanabusa,2012,15,4,No,3.9,Satomi Ishihara,NOT RATED,96
+The Conjuring,James Wan,2013,12,4,Yes,7.5,Vera Farmiga,R ,112
+Only Lovers Left Alive,Jim Jarmusch,2013,0,0,Yes,7.3,Tilda Swinton,R ,122
+World War Z,Marc Forster,2013,7,2.5,No,7,Brad Pitt,PG-13,116
+Odd Thomas,Stephen Sommers,2013,10,3,No,6.9,Anton Yelchin,NR,96
+House,Steve Miner,1986,11,3,No,6.2,Michael Madsen,R ,98
+House,Nobuhiko Obayashi,1977,0,0,No,6.2,Michael Madsen,R ,98
+The Call,Brad Anderson,2013,9,2.5,No,6.7,Halle Berry,R ,88
+Insidious: Chapter 2,James Wan,2013,22,4,No,6.6,Patrick Wilson,PG-13,106
+Evil Dead,Fede Alvarez,2013,20,4,No,6.5,Jane Levy,R ,91
+Horns,Alexandre Aja,2013,3,0.5,No,6.5,Daniel Radcliffe,R ,123
+Oculus,Mike Flanagan,2013,14,3.5,No,6.5,Karen Gillan,R ,104
+Europa Report,Sebastián Cordero,2013,1,0.5,No,6.4,Sharlto Copley,PG-13,90
+Dark Skies,Scott Stewart,2013,11,2.5,No,6.3,Keri Russell,PG-13,97
+Living Dark: The Story of Ted the Caver,David Hunt,2013,14,3.5,No,6.3,Chris Cleveland,PG-13,112
+Mama,Andrés Muschietti,2013,13,3.5,No,6.2,Jessica Chastain,PG-13,100
+The Den,Zachary Donohue,2013,14,4,No,6.1,Melanie Papalia,R ,81
+The Sacrament,Ti West,2013,2,0.5,No,6.1,Amy Seimetz,R ,100
+V/H/S/2,"Simon Barrett, Jason Eisener, Gareth Evans, Gregg Hale, Eduardo Sánchez, Timo Tjahjanto, Adam Wingard",2013,14,4,No,6.1,Lawrence Michael Levine,R ,96
+The Harvest,John McNaughton,2013,0,0,No,6,Samantha Morton,NR,104
+Carrie,Kimberly Peirce,2013,4,1,No,5.9,Chlo Grace Moretz,R ,99
+The Borderlands (Final Prayer),Elliot Goldner,2013,12,3,No,5.8,#N/A,R,89
+Devil’s Pass,Renny Harlin,2013,10,2.5,No,5.7,#N/A,R,100
+The Purge,James DeMonaco,2013,12,3,No,5.7,Ethan Hawke,R ,85
+Banshee Chapter,Blair Erickson,2013,22,5,No,5.5,Katia Winter,R,87
+Shadow People,Matthew Arnold,2013,10,2.5,No,5.4,Dallas Roberts,PG-13,89
+The Green Inferno,Eli Roth,2013,4,1,No,5.4,Ariel Levy,R ,101
+The Haunting in Connecticut 2: Ghosts of Georgia,Tom Elkins,2013,32,5,No,5.3,Abigail Spencer,R ,100
+Skinwalker Ranch,Devin McGinn,2013,5,1.5,No,5.1,Britani Bateman Underwood,R,86
+Anna,Jorge Dorado,2013,5,1,No,4.9,Taissa Farmiga,R ,98
+Texas Chainsaw 3D,John Luessenhop,2013,14,3,No,4.8,Alexandra Daddario,R,92
+Hotel Inferno,Giulio De Santi,2013,3,1,No,4.7,Rayner Bourton,0,80
+Sadako 3D 2,Tsutomu Hanabusa,2013,15,4,No,4.4,#N/A,R,96
+Cat People,Jacques Tourneur,1942,2,1,No,6.1,Simone Simon,R,73
+Cujo,Lewis Teague,1983,4,1,No,6.1,Dee Wallace,R,94
+A Girl Walks Home Alone at Night,Ana Lily Amirpour,2014,0,0,No,7,Sheila Vand,NR,104
+It Follows,David Robert Mitchell,2014,5,2,No,6.9,Maika Monroe,R ,94
+The Babadook,Jennifer Kent,2014,11,3,No,6.8,Essie Davis,NR,94
+The Babadook – Original Australian Blu-Ray at 25fps,Jennifer Kent,2014,11,3,No,6.8,#N/A,R,94
+Goodnight Mommy,"Severin Fiala, Veronika Franz",2014,1,0.5,No,6.7,Lukas Schwarz,R,99
+Spring,"Justin Benson, Aaron Moorhead",2014,1,0.5,No,6.7,Lou Taylor Pucci,NR,109
+The Guest,Adam Wingard,2014,5,1.5,No,6.7,Dan Stevens (IV),R ,97
+The Purge: Anarchy,James DeMonaco,2014,13,3,No,6.5,Frank Grillo,R ,104
+The Voices,Marjane Satrapi,2014,3,0.5,No,6.4,Ryan Reynolds,R,107
+Dracula Untold,Gary Shore,2014,4,1,No,6.3,Luke Evans,PG-13,92
+Creep,Patrick Kack-Brice,2014,10,3,Yes,6.2,Mark Duplass,R ,80
+Deliver Us From Evil,Scott Derrickson,2014,16,4,No,6.2,Eric Bana,R ,118
+"As Above, So Below",John Erick Dowdle,2014,7,3,Yes,6.1,Perdita Weeks,R,93
+The Prowler,Joseph Zito,1981,23,4.5,No,6.1,Vicki Dawson,R,88
+Backcountry,Adam MacDonald,2014,4,0.5,Yes,6,Missy Peregrym,R ,92
+Starry Eyes,"Kevin Kolsch, Dennis Widmyer",2014,9,2,No,6,Alex Essoe,NR,98
+The Taking of Deborah Logan,Adam Robitel,2014,19,3.5,No,6,Jill Larson,R ,90
+The Canal,Ivan Kavanagh,2014,4,2,No,5.9,Rupert Evans,NR,92
+The Pyramid,Grégory Levasseur,2014,14,4,Yes,5.8,Ashley Grace,R ,90
+Clown,Jon Watts,2014,11,3,No,5.7,Peter Stormare,R ,99
+Cooties,"Jonathan Milott, Cary Murnion",2014,15,3,No,5.7,Elijah Wood,R,87
+Last Shift,Anthony DiBlasi,2014,17,4,No,5.7,Juliana Harkavy,R,90
+Let Us Prey,Brian O’Malley,2014,7,3,No,5.7,Liam Cunningham,NR,89
+The Possession of Michael King,David Jung,2014,20,4,No,5.7,Shane Mikael Johnson,R ,83
+The Quiet Ones,John Pogue,2014,23,4,No,5.7,Jared Harris,PG-13,97
+Unfriended,Leo Gabriadze,2014,5,3,No,5.7,Shelley Hennig,R ,82
+Dark Was The Night,Jack Heller,2014,16,3,No,5.6,Kevin Durand,NR,94
+The Town That Dreaded Sundown,Alfonso Gomez-Rejon,2014,8,3,No,5.6,Denis O'Hare,R ,90
+WolfCop,Lowell Dean,2014,0,0,No,5.5,Leo Fafard,NR,79
+Annabelle,John R. Leonetti,2014,11,3.5,No,5.4,Annabelle Wallis,R ,98
+Jessabelle,Kevin Greutert,2014,9,2,No,5.4,Sarah Snook,PG-13,90
+The Amityville Horror,Stuart Rosenberg,1979,8,2.5,No,6,Ryan Reynolds,R ,89
+Tusk,Kevin Smith,2014,0,0,Yes,5.4,Justin Long,R ,102
+Fear Clinic,Robert Hall,2014,13,3,No,5.2,Robert Englund,R,95
+Extraterrestrial,Colin Minihan,2014,30,4.5,No,5,Julin Villagrn,PG-13,90
+The Woman in Black 2: Angel of Death,Tom Harper,2014,14,4,No,4.9,Phoebe Fox,PG-13,98
+Honeymoon,Leigh Janiak,2014,3,0.5,No,4.7,Rose Leslie,R ,87
+Ouija,Stiles White,2014,16,4,No,4.4,Olivia Cooke,PG-13,83
+Devil’s Due,"Matt Bettinelli-Olpin, Tyler Gillett",2014,13,3,No,4.1,#N/A,R,89
+Bone Tomahawk,S. Craig Zahler,2015,0,0,No,7.1,Kurt Russell,NR,133
+Green Room,Jeremy Saulnier,2015,1,0.5,Yes,7.1,Anton Yelchin,R ,94
+The Gift,Joel Edgerton,2015,5,1.5,No,7.1,Cate Blanchett,R ,112
+Jurassic World,Colin Trevorrow,2015,5,2,No,7,Chris Pratt,PG-13,123
+The Witch,Robert Eggers,2015,4,1.5,Yes,6.8,Anya Taylor-Joy,R ,92
+Halloween 4: The Return of Michael Myers,Dwight H. Little,1988,6,2,No,5.9,Donald Pleasence,R ,88
+The Invitation,Karyn Kusama,2015,5,1,Yes,6.7,Michiel Huisman,NR,100
+The Final Girls,Todd Strauss-Schulson,2015,8,1.5,No,6.6,Nina Dobrev,PG-13,88
+Crimson Peak,Guillermo del Toro,2015,9,2.5,No,6.5,Mia Wasikowska,R ,119
+Carrie,Brian De Palma,1976,1,0.5,No,5.9,Chlo Grace Moretz,R ,99
+Goosebumps,Rob Letterman,2015,10,2.5,No,6.4,Jack Black,PG ,103
+Hidden,"Matt Duffer, Ross Duffer",2015,6,1.5,No,6.4,Alexander Skarsgård,R,84
+The Devil’s Candy,Sean Byrne,2015,8,2,Yes,6.4,#N/A,R,79
+Deathgasm,Jason Lei Howden,2015,7,2,No,6.3,Milo Cawthorne,NR,90
+Krampus,Michael Dougherty,2015,10,2,No,6.2,Adam Scott,PG-13,98
+The Visit,M. Night Shyamalan,2015,8,2.5,No,6.2,Olivia DeJonge,PG-13,94
+Insidious: Chapter 3,Leigh Whannell,2015,15,4,No,6.1,Dermot Mulroney,PG-13,97
+The Ones Below,David Farr,2015,0,0,Yes,6.1,David Morrissey,R ,86
+The Boy,Craig Macneill,2015,1,0.5,No,6,David Morse,PG-13,105
+They Look Like People,Perry Blackshear,2015,2,0.5,No,6,MacLeod Andrews,UNRATED,80
+Victor Frankenstein,Paul McGuigan,2015,6,1.5,No,6,James McAvoy,PG-13,109
+Backtrack,Michael Petroni,2015,14,3.5,No,5.9,Adrien Brody,R ,90
+The Blackcoat’s Daughter,Osgood Perkins,2015,3,0.5,No,5.9,#N/A,R,93
+Extinction,Miguel Ángel Vivas,2015,12,3,No,5.8,Matthew Fox,R ,110
+Intruders,Adam Schindler,2015,4,1,No,5.7,Leticia Jimenez,R ,90
+Regression,Alejandro Amenábar,2015,3,1,No,5.7,Ethan Hawke,R ,106
+The Hallow,Corin Hardy,2015,18,3.5,No,5.7,Joseph Mawle,NOT RATED,97
+We Are Still Here,Ted Geoghegan,2015,12,3,No,5.7,Barbara Crampton,NR,84
+Maggie,Henry Hobson,2015,4,0.5,No,5.6,Arnold Schwarzenegger,PG-13,95
+Cyberbully,Ben Chanan,2015,1,1,No,5.5,#N/A,R,97
+Tales of Halloween,"Neil Marshall, Darren Lynn Bousman, Axelle Carolyn, Lucky McKee, Andrew Kasch, Paul Solet, John Skipp, Adam Gierasch, Jace Anderson, Mike Mendez, Ryan Schifrin, Dave Parker",2015,14,3,Yes,5.5,Adrienne Barbeau,R,92
+The Atticus Institute,Chris Sparling,2015,13,3.5,No,5.5,Rya Kihlstedt,NOT RATED,83
+Emelie,Michael Thelin,2015,3,0.5,Yes,5.4,Sarah Bolger,NR,80
+Demonic,Will Canon,2015,17,4,Yes,5.3,Maria Bello,R,83
+The House on Pine Street,"Aaron Keeling, Austin Keeling",2015,5,1,No,5.3,Emily Goss,0,111
+Visions,Kevin Greutert,2015,10,3.5,No,5.3,Isla Fisher,R,82
+Child’s Play,Tom Holland,1988,8,2.5,No,5.8,#N/A,R,90
+Sinister 2,Ciarán Foy,2015,19,4,No,5.2,James Ransone,R ,97
+Pay The Ghost,Uli Edel,2015,13,3,No,5.2,Nicolas Cage,NOT RATED,94
+The Lazarus Effect,David Gelb,2015,18,4.5,No,5.2,Mark Duplass,PG-13,83
+Dementia,Mike Testin,2015,0,0,No,5.1,Gene Jones,NOT RATED,90
+Deep Dark,Michael Medaglia,2015,2,1,No,5,Sean McGrath,0,79
+The Abandoned,Eytan Rockaway,2015,21,3.5,No,5,Louisa Krause,NR,88
+Poltergeist – Extended Cut,Gil Kenan,2015,22,4,No,4.9,#N/A,R,93
+Paranormal Activity: The Ghost Dimension,Gregory Plotkin,2015,29,4,No,4.6,Chris Murray,R ,97
+Amnesiac,Michael Polish,2015,1,0.5,No,4.3,Kate Bosworth,NR,90
+The Gallows,Travis Cluff & Chris Lofing,2015,21,4,No,4.2,Cassidy Gifford,R ,87
+The Sand,Isaac Gabaeff,2015,0,0,No,3.8,Brooke Butler,TV-MA,84
+Knock Knock,Eli Roth,2015,2,0.5,No,0,Keanu Reeves,R ,99
+Poltergeist – Theatrical Cut,Gil Kenan,2015,21,4,No,0,#N/A,R,0
+Arrival,Denis Villeneuve,2016,3,0.5,No,7.9,Amy Adams,PG-13,116
+The Conjuring 2,James Wan,2016,22,5,No,7.8,Vera Farmiga,R ,133
+The Wailing,Na Hong-jin,2016,4,1,Yes,7.7,Do-won Kwak,NOT RATED,156
+Nocturnal Animals,Tom Ford,2016,1,1,No,7.5,Jake Gyllenhaal,R ,115
+Train to Busan,Sang-ho Yeon,2016,4,1,Yes,7.5,Yoo Gong,NOT RATED,118
+10 Cloverfield Lane,Dan Trachtenberg,2016,8,2.5,No,7.3,Mary Elizabeth Winstead,PG-13,90
+Split,M. Night Shyamalan,2016,3,0.5,No,7.3,James McAvoy,PG-13,116
+Don’t Breathe,Fede Alvarez,2016,17,3.5,No,7.1,#N/A,R,88
+Elle,Paul Verhoeven,2016,7,2,No,7.1,Isabelle Huppert,R ,130
+Nerve,"Henry Joost, Ariel Schulman",2016,1,0.5,No,7.1,Emma Roberts,PG-13,96
+Raw,Julia Ducournau,2016,3,1,Yes,7,Garance Marillier,R ,98
+Children of the Corn,Fritz Kiersch,1984,8,3,No,5.7,Peter Horton,R ,93
+The Neon Demon,Nicolas Winding Refn,2016,2,0.5,No,7,Elle Fanning,R ,110
+Under the Shadow,Babak Anvari,2016,9,3.5,Yes,7,Narges Rashidi,PG-13,84
+Lights Out,David F. Sandberg,2016,19,4.5,No,6.9,Teresa Palmer,PG-13,81
+The Autopsy of Jane Doe,André Øvredal,2016,12,3,Yes,6.8,Emile Hirsch,R ,99
+The Shallows,Jaume Collet-Serra,2016,9,2.5,No,6.8,Blake Lively,PG-13,87
+Better Watch Out,Chris Peckover,2016,11,2.5,No,6.7,Levi Miller,R ,99
+The Girl with All the Gifts,Colm McCarthy,2016,3,1,No,6.7,Gemma Arterton,R ,110
+Hounds of Love,Ben Young,2016,0,0,No,6.6,Emma Booth,NR,108
+A Cure for Wellness,Gore Verbinski,2016,6,1.5,No,6.4,Dane DeHaan,R ,146
+The 9th Life of Louis Drax,Alexandre Aja,2016,4,1,No,6.3,Jamie Dornan,R ,90
+The Good Neighbor,Kasra Farahani,2016,7,2,Yes,6.3,James Caan,NR,98
+The Limehouse Golem,Juan Carlos Medina,2016,0,0,No,6.3,Bill Nighy,NR,105
+I Am Not a Serial Killer,Billy O’Brien,2016,3,1,No,6.2,Max Records,NR,104
+Personal Shopper,Olivier Assayas,2016,4,0.5,No,6.2,Kristen Stewart,R,105
+The Eyes of My Mother,Nicolas Pesce,2016,0,0,Yes,6.2,Kika Magalhaes,R ,77
+The Love Witch,Anna Biller,2016,0,0,No,6.2,Samantha Robinson (VI),NR,120
+Before I Wake,Mike Flanagan,2016,9,3,Yes,6.1,Kate Bosworth,PG-13,97
+Lost Creek,Colin Adams-Toomey,2016,2,0.5,No,6.1,Brynna Bartoo,0,92
+Ouija: Origin of Evil,Mike Flanagan,2016,18,4,No,6.1,Annalise Basso,PG-13,99
+The Belko Experiment,Greg McLean,2016,8,2.5,No,6.1,John Gallagher Jr.,R ,82
+The Purge: Election Year,James DeMonaco,2016,9,2.5,No,6.1,Frank Grillo,R ,105
+The Boy,William Brent Bell,2016,11,3,Yes,6,David Morse,PG-13,105
+Chopping Mall,Jim Wynorski,1986,5,1,No,5.6,#N/A,R,77
+Prevenge,Alice Lowe,2016,0,0.5,No,5.9,Gemma Whelan,0,88
+The Transfiguration,Michael O’Shea,2016,2,1,No,5.9,Eric Ruffin,NOT RATED,97
+Morgan,Luke Scott,2016,3,0.5,No,5.8,Kate Mara,R ,92
+Pride and Prejudice and Zombies,Burr Steers,2016,7,2,No,5.8,Lily James,PG-13,107
+Trash Fire,Richard Bates Jr.,2016,0,0,Yes,5.8,Adrian Grenier,R,91
+Pet,Carles Torrens,2016,2,1,No,5.7,Dominic Monaghan,R ,90
+The Neighbor,Marcus Dunstan,2016,3,1,No,5.7,Alex Essoe,NR,87
+Don’t Hang Up,"Damien Macé, Alexis Wajsbrot",2016,4,4,No,5.6,#N/A,R,83
+Here Alone,Rod Blackhurst,2016,2,0.5,Yes,5.6,Lucy Walters,0,98
+Resident Evil: The Final Chapter,Paul W.S. Anderson,2016,29,4.5,No,5.6,Milla Jovovich,R ,106
+Friend Request,Simon Verhoeven,2016,21,4,Yes,5.4,Alycia Debnam-Carey,R ,92
+The Monster,Bryan Bertino,2016,11,3,Yes,5.4,Zoe Kazan,R ,91
+The Other Side of the Door,Johannes Roberts,2016,16,3.5,No,5.3,Sarah Wayne Callies,R ,96
+Child Eater,Erlingur Óttar Thoroddsen,2016,8,2,No,5.2,Cait Bliss,0,82
+Incarnate,Brad Peyton,2016,9,2.5,No,5.2,Aaron Eckhart,PG-13,Runtime Not Available
+31,Rob Zombie,2016,8,2.5,No,5.1,Sheri Moon Zombie,R ,103
+Don’t Knock Twice,Caradog W. James,2016,19,3.5,No,5.1,#N/A,R,93
+Holidays,"Anthony Scott Burns,Kevin Kolsch, Nicholas McCarthy, Adam Egypt Mortimer, Ellen Reid, Gary Shore, Kevin Smith, Sarah Adina Smith, Scott Stewart, Dennis Widmyer",2016,5,2,Yes,5.1,Lorenza Izzo,NOT RATED,105
+Blair Witch,Adam Wingard,2016,18,4,No,5,James Allen McCune,R ,89
+A Nightmare on Elm Street 2: Freddy’s Revenge,Jack Sholder,1985,8,2,No,5.5,#N/A,R,87
+The Forest,Jason Zada,2016,13,3.5,No,4.8,Natalie Dormer,PG-13,94
+I Am the Pretty Thing That Lives in the House,Oz Perkins,2016,4,0.5,Yes,4.7,Ruth Wilson,NR,87
+The Veil,Phil Joanou,2016,12,3,Yes,4.7,Jessica Alba,R,93
+Viral,"Henry Joost, Ariel Schulman",2016,20,4,No,4.5,Sofia Black-D'Elia,R ,89
+Cell,Tod Williams,2016,5,2,No,4.3,John Cusack,R ,98
+My Bloody Valentine,George Mihalka,1981,11,2.5,No,5.5,Paul Kelman,R,91
+The Void,"Jeremy Gillespie, Steven Kostanski",2016,8,2,Yes,4.3,Aaron Poole,NR,90
+Restoration,Zack Ward,2016,10,3,No,4,Robert Downey Jr.,R,150
+The Disappointments Room,D.J. Caruso,2016,9,2.5,Yes,3.9,Kate Beckinsale,R ,100
+Hush,Mike Flanagan,2016,7,2.5,Yes,0,Jessica Lange,PG-13,96
+Life,Daniel Espinosa,2017,8,2,No,8.3,Jake Gyllenhaal,R ,103
+It,Andy Muschietti,2017,23,4,No,7.8,Clara Bow,NR,72
+Terrifier,Damien Leone,2017,18,3.5,Yes,7.8,David Howard Thornton,NR,85
+Get Out,Jordan Peele,2017,10,2.5,No,7.7,Daniel Kaluuya,R,104
+The Shape of Water,Guillermo del Toro,2017,2,0.5,No,7.3,Sally Hawkins,R ,119
+Mayhem,Joe Lynch,2017,2,0.5,No,7.1,Steven Yeun,NR,Runtime Not Available
+Mother!,Darren Aronofsky,2017,7,2,No,7.1,Jennifer Lawrence,R ,115
+Anna and the Apocalypse,John McPhail,2017,6,2.5,No,7,Ella Hunt,0,107
+The Killing of a Sacred Deer,Yorgos Lanthimos,2017,3,0.5,No,7,Nicole Kidman,R ,119
+The Mummy,Alex Kurtzman,2017,16,3.5,No,7,Tom Cruise,PG-13,120
+A Ghost Story,David Lowery,2017,3,1,No,6.9,Casey Affleck,R ,87
+The Endless,"Justin Benson, Aaron Moorhead",2017,7,2.5,No,6.9,Aaron Moorhead,NR,112
+Veronica,Paco Plaza,2017,10,3,Yes,6.9,Sandra Escacena,0,105
+Stephanie,Akiva Goldsman,2017,18,3,Yes,6.8,Anna Torv,0,0
+Tragedy Girls,Tyler Macintyre,2017,8,2,No,6.8,Josh Hutcherson,R,98
+Annabelle: Creation,David F. Sandberg,2017,23,4.5,No,6.7,Stephanie Sigman,R ,109
+Happy Death Day,Christopher Landon,2017,8,2.5,No,6.7,Jessica Rothe,PG-13,Runtime Not Available
+Flatliners,Niels Arden Oplev,2017,20,4,No,6.6,Ellen Page,PG-13,108
+Gerald’s Game,Mike Flanagan,2017,3,0.5,Yes,6.6,#N/A,R,103
+Alien: Covenant,Ridley Scott,2017,6,2,No,6.5,Michael Fassbender,R ,120
+Mom and Dad,Brian Taylor,2017,5,1.5,No,6.5,Nicolas Cage,R,83
+Creep 2,Patrick Brice,2017,6,2,Yes,6.4,Mark Duplass,NR,80
+Ghost Stories,"Jeremy Dyson, Andy Nyman",2017,21,4,No,6.4,Martin Freeman,NR,97
+Jigsaw,"Michael Spierig, Peter Spierig",2017,7,2,No,6.4,Matt Passmore,R ,91
+The Babysitter,McG,2017,8,2.5,Yes,6.4,Alicia Silverstone,R ,90
+1922,Zak Hilditch,2017,2,1,Yes,6.3,Thomas Jane,NR,101
+Berlin Syndrome,Cate Shortland,2017,1,0.5,No,6.3,Teresa Palmer,R ,116
+The Ritual,David Bruckner,2017,15,3,Yes,6.3,Jacob James Beswick,NR,94
+Cargo,"Ben Howling, Yolanda Ramke",2017,2,0.5,Yes,6.2,Natasha Rinis,R,86
+Four Hands,Oliver Kienle,2017,1,0.5,No,6.2,#N/A,R,94
+It Comes at Night,Trey Edward Shults,2017,5,1.5,No,6.2,Joel Edgerton,R ,91
+My Friend Dahmer,Marc Meyers,2017,0,0,No,6.2,Ross Lynch,R ,107
+Hotel Inferno 2: The Cathedral of Pain,"Giulio De Santi, Tiziana Machella",2017,5,1.5,No,6,Rayner Bourton,0,70
+Marrowbone,Sergio G. Sánchez,2017,5,2.5,No,5.9,Anya Taylor-Joy,R ,110
+Dismissed,Benjamin Arfmann,2017,0,0,No,5.7,Dylan Sprouse,0,0
+47 Meters Down,Johannes Roberts,2017,11,3,Yes,5.7,Mandy Moore,PG-13,89
+Little Evil,Eli Craig,2017,7,1.5,Yes,5.7,Adam Scott,NR,94
+Sequence Break,Graham Skipper,2017,3,0.5,No,5.7,John Dinan,0,80
+The Cured,David Freyne,2017,16,3,No,5.4,Ellen Page,R ,96
+Cult of Chucky,Don Mancini,2017,14,3.5,Yes,5.2,Jennifer Tilly,R ,91
+Phoenix Forgotten,Justin Barber,2017,0,0,No,5.2,Florence Hartigan,PG-13,80
+The Snowman,Tomas Alfredson,2017,9,2,No,5.2,Raymond Briggs,G,26
+Leatherface,"Alexandre Bustillo, Julien Maury",2017,13,3,No,5.1,Stephen Dorff,R ,90
+Halloween 5: The Revenge of Michael Myers,Dominique Othenin-Girard,1989,16,3.5,No,5.2,Danielle Harris,R,96
+Wish Upon,John R. Leonetti,2017,11,2,No,5.1,Joey King,PG-13,89
+The Crucifixion,Xavier Gens,2017,19,4.5,No,5,Sophie Cookson,R ,90
+Amityville: The Awakening,Franck Khalfoun,2017,11,3,No,4.9,Jennifer Jason Leigh,R ,100
+Housewife,Can Evrenol,2017,5,1,No,4.9,#N/A,R,82
+What the Waters Left Behind,"Luciano Onetti, Nicolás Onetti",2017,5,1,No,4.9,#N/A,R,98
+Devil in the Dark,Tim Brown,2017,2,0.5,No,4.7,#N/A,R,83
+Slumber,Jonathan Hopkins,2017,12,3,No,4.7,Maggie Q,R ,85
+The Heretics,Chad Archibald,2017,4,1.5,Yes,4.7,#N/A,R,87
+Death Note,Adam Wingard,2017,6,1.5,Yes,4.6,Nat Wolff,NR,101
+The Innocents,Jack Clayton,1961,4,0.5,No,5.2,María Eugenia Arboleda,0,0
+Rings,F. Javier Gutiérrez,2017,19,3.5,No,4.5,Matilda Anna Ingrid Lutz,PG-13,117
+The Bye Bye Man,Stacy Title,2017,13,3,No,4.3,Cressida Bonas,PG-13,96
+The Gracefield Incident,Mathieu Ratthe,2017,10,2.5,No,4.1,Mathieu Ratthe,PG-13,89
+The Cropsey Incident,Julian Grant,2017,0,0,No,3.5,#N/A,R,85
+Halloween,David Gordon Green,2018,14,3.5,No,7.9,Malcolm McDowell,R ,109
+Slender Man,Sylvain White,2018,15,3.5,No,7.8,Aisha Bulahova,0,0
+Searching,Aneesh Chaganty,2018,0,0,No,7.6,#N/A,R,102
+A Quiet Place,John Krasinski,2018,14,4,No,7.5,Emily Blunt,PG-13,90
+Hereditary,Ari Aster,2018,8,2,No,7.3,Toni Collette,R ,127
+Annihilation,Alex Garland,2018,4,1.5,Yes,6.9,Natalie Portman,R ,Runtime Not Available
+Suspiria,Luca Guadagnino,2018,2,0.5,No,6.8,#N/A,R,152
+Summer of 84,"Anouk Whissell, François Simard, Yoann-Karl Whissell",2018,19,4,No,6.7,#N/A,R,105
+Venom,Ruben Fleischer,2018,10,2.5,Yes,6.7,Agnes Bruckner,R ,85
+Bird Box,Susanne Bier,2018,4,0.5,Yes,6.6,#N/A,R,124
+Mandy,Panos Cosmatos,2018,5,1.5,No,6.6,Nicolas Cage,NR,120
+Overlord,Julius Avery,2018,12,2.5,No,6.6,Brian Stirner,NR,85
+Unsane,Steven Soderbergh,2018,2,0.5,No,6.4,Claire Foy,R ,97
+Apostle,Gareth Evans,2018,5,1.5,Yes,6.3,Dan Stevens (IV),NR,129
+Jurassic World: Fallen Kingdom,J.A. Bayona,2018,7,2,No,6.2,Chris Pratt,PG-13,129
+The House with a Clock in Its Walls,Eli Roth,2018,8,1.5,No,6,#N/A,R,105
+Cam,Daniel Goldhaber,2018,1,0.5,Yes,5.9,#N/A,R,94
+Unfriended: Dark Web,Stephen Susco,2018,6,1.5,No,5.9,Colin Woodell,R ,88
+You Might Be the Killer,Brett Simmons,2018,6,1.5,No,5.9,#N/A,R,92
+When a Stranger Calls,Fred Walton,1979,5,2,No,5,Camilla Belle,PG-13,87
+Butterfly Kisses,Erik Kristopher Myers,2018,2,1,No,5.8,#N/A,R,91
+Insidious: The Last Key,Adam Robitel,2018,15,4,No,5.7,Lin Shaye,PG-13,103
+Possum,Matthew Holness,2018,4,1,No,5.6,#N/A,R,85
+The Meg,Jon Turteltaub,2018,18,3.5,No,5.6,#N/A,R,113
+Hell Fest,Gregory Plotkin,2018,28,5,No,5.5,#N/A,R,89
+The Cloverfield Paradox,Julius Onah,2018,8,3,Yes,5.5,#N/A,R,102
+Halloween II,Rick Rosenthal,1981,8,2,No,4.9,Jamie Lee Curtis,R,93
+The Little Stranger,Lenny Abrahamson,2018,0,0,No,5.5,#N/A,R,111
+Abrakadabra,"Luciano Onetti, Nicolás Onetti",2018,0,0,No,5.4,#N/A,R,69
+The Predator,Shane Black,2018,6,1.5,No,5.4,#N/A,R,107
+The Haunting,Robert Wise,1963,3,1,No,4.9,Julie Harris,G,113
+Winchester,"Michael Spierig, Peter Spierig",2018,17,4,No,5.4,Helen Mirren,PG-13,Runtime Not Available
+Seven in Heaven,Chris Eigeman,2018,8,2,Yes,5.3,#N/A,R,94
+Starfish,A.T. White,2018,4,1,No,5.3,#N/A,R,101
+The Nun,Corin Hardy,2018,21,4.5,No,5.3,#N/A,R,96
+The First Purge,Gerard McMurray,2018,8,2.5,No,5.2,Y'lan Noel,R ,Runtime Not Available
+The Strangers: Prey at Night,Johannes Roberts,2018,14,3.5,No,5.2,Bailee Madison,R ,Runtime Not Available
+Truth or Dare,Jeff Wadlow,2018,7,2,No,5.2,Jessica Cameron,NOT RATED,84
+Antrum,"David Amito, Michael Laicini",2018,0,0,No,4.9,#N/A,R,95
+Perfect,Eddie Alcazar,2018,0,0,No,4.5,John Travolta,R ,120
+Watch If You Dare,"Jill Gevargizian, Andy Stewart, Christopher G. Moore",2018,0,0,No,3.8,#N/A,R,71
+The Open House,"Matt Angel, Suzanne Coote",2018,14,3,Yes,3.2,Dylan Minnette,NR,94
+Ghostland,Pascal Laugier,2018,21,4,No,0,#N/A,R,91
+Malevolent,Olaf de Fleur Johannesson,2018,8,3,Yes,0,Florence Pugh,NR,88
+Patient Zero,Stefan Ruzowitzky,2018,6,1.5,No,0,Matt Smith (XI),R ,Runtime Not Available
+Wildling,Fritz Böhm,2018,4,1.5,No,0,Liv Tyler,R ,93
+1917,Sam Mendes,2019,10,2.5,No,8.3,#N/A,R,119
+The Lighthouse,Robert Eggers,2019,4,1,No,7.6,#N/A,R,109
+Midsommar,Ari Aster,2019,3,1,No,7.1,#N/A,R,148
+Us,Jordan Peele,2019,11,2.5,No,6.9,#N/A,R,116
+Ready or Not,"Matt Bettinelli-Olpin, Tyler Gillett",2019,10,3,No,6.8,#N/A,R,95
+Zombieland: Double Tap,Ruben Fleischer,2019,2,0.5,No,6.7,#N/A,R,99
+It Chapter Two,Andy Muschietti,2019,24,4,No,6.6,#N/A,R,169
+Pet Sematary,"Kevin Kölsch, Dennis Widmyer",2019,14,3.5,No,6.6,Dale Midkiff,R ,103
+Black Christmas,Bob Clark,1974,4,1.5,No,4.5,Katie Cassidy,R ,84
+Countdown,Justin Dec,2019,17,4,No,6.5,James Caan,NR,101
+Color Out of Space,Richard Stanley,2019,4,1,No,6.2,#N/A,R,111
+Happy Death Day 2U,Christopher Landon,2019,7,2,No,6.2,#N/A,R,100
+Scary Stories to Tell in the Dark,André Øvredal,2019,8,3,No,6.2,#N/A,R,108
+Brightburn,David Yarovesky,2019,20,3.5,No,6.1,#N/A,R,90
+The Perfection,Richard Shepard,2019,1,0.5,Yes,6.1,#N/A,R,90
+Annabelle Comes Home,Gary Dauberman,2019,20,4,No,5.9,#N/A,R,106
+Child’s Play,Lars Klevberg,2019,16,3,No,5.8,#N/A,R,90
+Sweetheart,Justin Dillard,2019,6,1.5,No,5.8,#N/A,R,82
+1BR,David Marmor,2019,3,0.5,No,5.7,#N/A,R,90
+Eli,Ciarán Foy,2019,13,3.5,Yes,5.7,#N/A,R,98
+Velvet Buzzsaw,Dan Gilroy,2019,10,2.5,Yes,5.7,#N/A,R,113
+Ma,Tate Taylor,2019,3,1,No,5.6,#N/A,R,99
+The Dead Don’t Die,Jim Jarmusch,2019,0,0,No,5.5,#N/A,R,104
+In the Tall Grass,Vincenzo Natali,2019,4,1,Yes,5.4,#N/A,R,101
+The Curse of La Llorona,Michael Chaves,2019,20,4,No,5.3,#N/A,R,93
+After Midnight,"Jeremy Gardner, Christian Stella",2019,6,2.5,No,5.2,#N/A,R,83
+Haunt,Scott Beck & Bryan Woods,2019,16,4,No,5.2,Harrison Gilbertson,R ,86
+Dark Encounter,Carl Strathie,2019,2,0.5,No,5.1,#N/A,R,97
+47 Meters Down: Uncaged,Johannes Roberts,2019,13,3.5,No,5,#N/A,R,90
+Aquaslash,Renaud Gauthier,2019,0,0,No,4.9,#N/A,R,71
+Death of a Vlogger,Graham Hughes,2019,14,4,No,4.8,#N/A,R,88
+Black Christmas,Sophia Takal,2019,8,2.5,No,4.5,Katie Cassidy,R ,84
+Girl on the Third Floor,Travis Stevens,2019,5,1,No,4.5,#N/A,R,93
+Escape Room,Adam Robitel,2019,4,1.5,No,4.4,Skeet Ulrich,R,86
+Sadako,Hideo Nakata,2019,3,0.5,No,4.1,#N/A,R,99
+Wounds,Babak Anvari,2019,6,1,Yes,4,#N/A,R,95
+The Nightmare Gallery,Gene Blalock,2019,2,0.5,No,3.8,#N/A,R,94
+The Hunt,Craig Zobel,2020,4,1,No,8.3,Guillaume Beylard,0,74
+The Invisible Man,Leigh Whannell,2020,6,3,No,7.1,Claude Rains,NR,72
+The Vast of Night,Andrew Patterson,2020,0,0,No,6.7,#N/A,R,91
+Guns Akimbo,Jason Lei Howden,2020,2,1,No,6.3,#N/A,R,98
+Daniel Isn’t Real,Adam Egypt Mortimer,2020,6,1.5,No,6,#N/A,R,100
+The Lodge,Severin Fiala & Veronika Franz,2020,4,1.5,No,6,#N/A,R,108
+The Lovebirds,Michael Showalter,2020,2,0.5,Yes,6,#N/A,R,86
+Horse Girl,Jeff Baena,2020,1,0.5,Yes,5.9,#N/A,R,103
+Relic,Natalie Erika James,2020,3,0.5,No,5.9,#N/A,R,89
+The Grudge,Nicholas Pesce,2020,19,4,No,5.9,Sarah Michelle Gellar,PG-13,91
+Underwater,William Eubank,2020,15,4,No,5.8,#N/A,R,95
+Vivarium,Lorcan Finnegan,2020,0,0,No,5.8,#N/A,R,97
+The Beach House,Jeffrey A. Brown,2020,1,0.5,No,5.4,#N/A,R,88
+Gretel & Hansel,Oz Perkins,2020,5,1.5,No,5.3,#N/A,R,87
+Fantasy Island,Jeff Wadlow,2020,13,2.5,No,4.9,#N/A,R,109
+Brahms: The Boy II,William Brent Bell,2020,11,3,No,4.6,#N/A,R,86
+Behind You,Andrew Mecham,2020,8,2.5,No,4.3,#N/A,R,86
+Savage Intruder,Donald Wolfe,1970,3,0.5,No,0,#N/A,R,0
+Dreamkatcher,Kerry Harris,2020,4,1.5,No,3.8,#N/A,R,85
+The Turning,Floria Sigismondi,2020,13,3.5,No,3.8,Cate Blanchett,NR,180
